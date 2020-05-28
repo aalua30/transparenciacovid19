@@ -59,6 +59,19 @@
                         <a href="#r17" class="link-site"><img src="assets/images/MARCO-FACE-COVID.png"  class="imga" alt=""></a>
                     </div>
                 </div>
+                <div class="row">
+                    <div class="col-md-4"></div>
+                    <div class="col-md-2"></div>
+                    <div class="col-md-6 advice">
+                        <p>
+                        Este micrositio fue construido en cumplimiento al exhorto emitido por el INFOEM a los sujetos obligados de los Poderes Ejecutivo, 
+                        Legislativo y Judicial; asi como a los &Oacute;rganos aut&oacute;nomos de la entidad que conforme a 
+                        sus facultades, competencias y funciones poseen o administran informacion relacionada con la actual 
+                        emergencia sanitaria ocadionada por la pandemia del virus SARS-Cov-2 que causa el COVID-19.
+                        </p>
+                    </div>
+                    
+                </div>
             </div>
             <div class="row mb-2">
                 <div class="col-md-6">

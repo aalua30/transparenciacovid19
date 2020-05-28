@@ -8,6 +8,9 @@
     --gugi: "Gugi", cursive;
     --sofia: "Sofia",cursive;
 }
+.advice {
+    font-size: 0.8rem;
+}
 .primary-color{
     color:var(--primary-color)
 }
