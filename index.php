@@ -64,7 +64,9 @@
                     <div class="col-md-2"></div>
                     <div class="col-md-6 advice text-justify">
                         <p>
-                        Este micrositio fue construido en cumplimiento al exhorto emitido por el INFOEM a los sujetos obligados de los Poderes Ejecutivo, 
+                        Este micrositio fue construido en cumplimiento al exhorto emitido por el nstituto de Transparencia, 
+                        Acceso a la Informaci&oacute;n P&uacute;blica y Protecci&oacute;n de Datos Personales del Estado de 
+                        M&eacute;xico y Municipios (INFOEM) a los sujetos obligados de los Poderes Ejecutivo, 
                         Legislativo y Judicial; asi como a los &Oacute;rganos aut&oacute;nomos de la entidad que conforme a 
                         sus facultades, competencias y funciones poseen o administran informacion relacionada con la actual 
                         emergencia sanitaria ocasionada por la pandemia del virus SARS-Cov-2 que causa el COVID-19.
