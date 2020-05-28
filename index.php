@@ -67,7 +67,7 @@
                         Este micrositio fue construido en cumplimiento al exhorto emitido por el INFOEM a los sujetos obligados de los Poderes Ejecutivo, 
                         Legislativo y Judicial; asi como a los &Oacute;rganos aut&oacute;nomos de la entidad que conforme a 
                         sus facultades, competencias y funciones poseen o administran informacion relacionada con la actual 
-                        emergencia sanitaria ocadionada por la pandemia del virus SARS-Cov-2 que causa el COVID-19.
+                        emergencia sanitaria ocasionada por la pandemia del virus SARS-Cov-2 que causa el COVID-19.
                         </p>
                     </div>
                     
