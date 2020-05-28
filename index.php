@@ -62,7 +62,7 @@
                 <div class="row">
                     <div class="col-md-4"></div>
                     <div class="col-md-2"></div>
-                    <div class="col-md-6 advice">
+                    <div class="col-md-6 advice text-justify">
                         <p>
                         Este micrositio fue construido en cumplimiento al exhorto emitido por el INFOEM a los sujetos obligados de los Poderes Ejecutivo, 
                         Legislativo y Judicial; asi como a los &Oacute;rganos aut&oacute;nomos de la entidad que conforme a 
