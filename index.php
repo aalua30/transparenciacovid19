@@ -67,7 +67,7 @@
                         Este micrositio fue construido en cumplimiento al acuerdo mediante el cual el Pleno del Insituto
                         de Transparencia, Acceso a la Informaci&oacute;n P&uacute;blica y Protecci&oacute;n de Datos Personales del Estado de 
                         M&eacute;xico y Municipios, exhorta a los Sujetos Obligados de los Poderes Ejecutivo, 
-                        Legislativo y Judicial, asi como a los &Oacute;rganismos Aut&oacute;nomos de la entidad que conforme a 
+                        Legislativo y Judicial, asi como a los Organismos Aut&oacute;nomos de la entidad que conforme a 
                         sus facultades, competencias y funciones poseen o administran informacion relacionada con la actual 
                         emergencia sanitaria ocasionada por la pandemia del virus SARS-CoV-2 que causa el COVID-19, para que
                         publiquen en sus p&aacute;ginas electr&oacute;nicas institucionales aquella informaci&oacute;n de
