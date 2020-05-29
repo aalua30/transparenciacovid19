@@ -214,7 +214,7 @@
                         <a href="#r41" class="stretched-link link-site">Continua leyendo</a>
                         </div>
                         <div class="col-md-5 d-lg-block post"> 
-                            <img src="assets/informacion_minni.png" class="img-thumbnail" alt="">
+                            <img src="assets/informacion_mini.jpg" class="img-thumbnail" alt="">
                         </div>
                     </div>
                 </div>
@@ -448,7 +448,7 @@
                         <div class="col-md-8 subtitle"><h1>Estad&iacute;stica</h1></div>
                     </div> 
                     <div id="r41" class="blog-post">  
-                        <img src="assets/informacion.png" class="rounded img-fluid"  alt="">
+                        <img src="assets/informacion.jpg" class="rounded img-fluid"  alt="">
                     </div>
                     <div class="row section_title"> 
                         <div id="r5" class="col-md-2 title_icon"><i class="fab fa-youtube"></i></div>
