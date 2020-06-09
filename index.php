@@ -47,7 +47,7 @@
                 <div class="row">
                     <div class="col-md-6 px-0">
                         <h1 class="display-4 font-italic">Indicaciones esenciales durante la cuarentena</h1>
-                        <p class="lead my-3">La Comisi&oacute;n de Derechos Humanos atenta a los acontecimientos derivados de la contigencia sanitaria
+                        <p class="lead my-3">La Comisi&oacute;n de Derechos Humanos atenta a los acontecimientos derivados de la contingencia sanitaria
                             por el COVID-19, como garante de los derechos humanos en el Estado de México, emite las siguientes recomendaciones para coadyuvar a la población a proteger su salud.</p>
                         <p class="lead mb-0"><a href="#r1" class="text-white font-weight-bold link-site">Continuar leyendo...</a></p>
                     </div>
@@ -64,11 +64,11 @@
                     <div class="col-md-2"></div>
                     <div class="col-md-6 advice text-justify">
                         <p>
-                        Este micrositio fue construido en cumplimiento al acuerdo mediante el cual el Pleno del Insituto
+                        Este micrositio fue construido en cumplimiento al acuerdo mediante el cual el Pleno del Instituto
                         de Transparencia, Acceso a la Informaci&oacute;n P&uacute;blica y Protecci&oacute;n de Datos Personales del Estado de 
                         M&eacute;xico y Municipios, exhorta a los Sujetos Obligados de los Poderes Ejecutivo, 
-                        Legislativo y Judicial, asi como a los Organismos Aut&oacute;nomos de la entidad que conforme a 
-                        sus facultades, competencias y funciones poseen o administran informacion relacionada con la actual 
+                        Legislativo y Judicial, as&iacute; como a los Organismos Aut&oacute;nomos de la entidad que conforme a 
+                        sus facultades, competencias y funciones poseen o administran informaci&oacute;n relacionada con la actual 
                         emergencia sanitaria ocasionada por la pandemia del virus SARS-CoV-2 que causa el COVID-19, para que
                         publiquen en sus p&aacute;ginas electr&oacute;nicas institucionales aquella informaci&oacute;n de
                         inter&eacute;s sobre esta pandemia, con la finalidad de atender bajo esta modalidad, el acceso a la 
@@ -448,7 +448,7 @@
                         <div class="col-md-8 subtitle"><h1>Estad&iacute;stica</h1></div>
                     </div> 
                     <div id="r41" class="blog-post">  
-                        <img src="assets/informacion.jpg" class="rounded img-fluid"  alt="">
+                        <img src="assets/informacion.png" class="rounded img-fluid"  alt="">
                     </div>
                     <div class="row section_title"> 
                         <div id="r5" class="col-md-2 title_icon"><i class="fab fa-youtube"></i></div>
