@@ -48,7 +48,7 @@
                     <div class="col-md-6 px-0">
                         <h1 class="display-4 font-italic">Indicaciones esenciales durante la cuarentena</h1>
                         <p class="lead my-3">La Comisi&oacute;n de Derechos Humanos atenta a los acontecimientos derivados de la contingencia sanitaria
-                            por el COVID-19, como garante de los derechos humanos en el Estado de México, emite las siguientes recomendaciones para coadyuvar a la población a proteger su salud.</p>
+                            por el COVID-19, como garante de los derechos humanos en el Estado de M&eacute;xico, emite las siguientes recomendaciones para coadyuvar a la población a proteger su salud.</p>
                         <p class="lead mb-0"><a href="#r1" class="text-white font-weight-bold link-site">Continuar leyendo...</a></p>
                     </div>
                     <div class="col-md-2">
