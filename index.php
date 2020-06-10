@@ -154,7 +154,7 @@
                         <div class="col p-4 d-flex flex-column position-static">
                         <h3 class="mb-0">Comunicados</h3>
                         <div class="mb-1 text-muted">Mayo 2020</div>
-                        <p class="mb-auto">Compendio de comunicados de prensa que la Codhem ha emitido en relaci&oacute;n con la contigencia
+                        <p class="mb-auto">Compendio de comunicados de prensa que la Codhem ha emitido en relaci&oacute;n con la contingencia
                             sanitaria en el Estado de M&eacute;xico y el COVID-19
                         </p>
                         <a href="assets/comunicados.pdf" target="_blank" class="stretched-link">Descarga archivo</a>
