@@ -108,6 +108,25 @@
                     <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
                         <div class="col p-4 d-flex flex-column position-static">
                             
+                            <h3 class="mb-0">Recomendaci&oacute;n General 2/2020</h3>
+                            <div class="mb-1 text-muted">Junio 2020</div>
+                            <p class="card-text mb-auto">
+                                Sobre el uso de cobrebocas para garantizar el derecho a la protecci&oacute;n de la 
+                                salud frente al COVID-19
+                            </p>
+                            <a href="https://www.codhem.org.mx/LocalUser/codhem.org/recomendaciones/pdf/2020/reco_gen_02_2020.pdf" target="_blank" class="stretched-link">Continua leyendo</a>
+                        </div>
+                        <div class="col-md-5 d-lg-block post"> 
+                            <a href="https://www.codhem.org.mx/LocalUser/codhem.org/recomendaciones/pdf/2020/reco_gen_02_2020.pdf" target="_blank">
+                                <img src="assets/images/reco_gen_2_2020.jpg" class="img-thumbnail" alt="">
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-md-6">
+                    <div class="row no-gutters border rounded overflow-hidden flex-md-row mb-4 shadow-sm h-md-250 position-relative">
+                        <div class="col p-4 d-flex flex-column position-static">
+                            
                             <h3 class="mb-0">Pronunciamiento</h3>
                             <div class="mb-1 text-muted">13 de mayo 2020</div>
                             <p class="card-text mb-auto">
