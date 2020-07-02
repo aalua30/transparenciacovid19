@@ -499,7 +499,7 @@
                                                     Una obra original de Maleni Mej&iacute;a, que habla sobre la discriminaci&oacute;n y la aceptaci&oacute;n de las diferencias.
                                                     </p>
                                                     <div class="d-flex justify-content-between align-items-center">
-                                                        <small class="text-muted">4:56 mins</small>
+                                                        <small class="text-muted">0:55 mins</small>
                                                     </div>
                                                 </div>
                                         </div>
@@ -510,11 +510,10 @@
                                             
                                                 <div class="card-body">
                                                     <p class="card-text">
-                                                    Cuento la oveja Romi<br>
-                                                    Una obra original de Maleni Mej&iacute;a, que habla sobre la discriminaci&oacute;n y la aceptaci&oacute;n de las diferencias.
+                                                    Atenci&oacute;n a Familias Multiestresadas en cuatentena por COVID-19
                                                     </p>
                                                     <div class="d-flex justify-content-between align-items-center">
-                                                        <small class="text-muted">4:56 mins</small>
+                                                        <small class="text-muted">1:34:00</small>
                                                     </div>
                                                 </div>
                                         </div>
@@ -524,11 +523,10 @@
                                             <iframe class="card-img-top" width="100%" height="225" src="https://www.youtube.com/embed/bIszZcAMm-M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                                                 <div class="card-body">
                                                     <p class="card-text">
-                                                    Cuento la oveja Romi<br>
-                                                    Una obra original de Maleni Mej&iacute;a, que habla sobre la discriminaci&oacute;n y la aceptaci&oacute;n de las diferencias.
+                                                    Pronunciamieto
                                                     </p>
                                                     <div class="d-flex justify-content-between align-items-center">
-                                                        <small class="text-muted">4:56 mins</small>
+                                                        <small class="text-muted">2:12 mins</small>
                                                     </div>
                                                 </div>
                                         </div>
